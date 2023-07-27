@@ -1,0 +1,14 @@
+/multiply_js
+/multiply_cpp
+
+proof.json
+public.json
+verification_key.json
+
+*.zkey
+*.pk
+*.ptau
+*.r1cs
+*.vk
+*.wtns
+*.sym

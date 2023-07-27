@@ -1,0 +1,10 @@
+/sudoku_js
+
+*.inst.json
+*.pf.json
+
+*.pk
+*.ptau
+*.r1cs
+*.vk
+*.wtns
